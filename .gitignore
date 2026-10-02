@@ -1,0 +1,9 @@
+node_modules/
+.env
+data/players.json
+*.log
+.DS_Store
+
+data/games.json
+*.tmp
+data/*.tmp

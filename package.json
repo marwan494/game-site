@@ -1,0 +1,31 @@
+{
+  "name": "chess-bot-dev7amo",
+  "version": "7.0.1",
+  "description": "7AMO Chess — Discord Chess Pro with realistic premium Canvas board, Stockfish 18, bot-owned Application Emojis and persistent game recovery and interaction-timeout protection. Powered By TC Team — 7amo.",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "node src/deploy-commands.js"
+  },
+  "keywords": [
+    "chess",
+    "discord",
+    "bot",
+    "canvas",
+    "stockfish",
+    "components-v2"
+  ],
+  "author": "TC Team — 7amo",
+  "license": "MIT",
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.6",
+    "chess.js": "^1.4.0",
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2",
+    "stockfish": "^18.0.8"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "4464381e",
+    "channelId": "1528850673737666734",
+    "messageId": "1554669211773829214",
+    "white": {
+      "id": "1336523833091297290",
+      "name": "𝟕𝐚𝐦𝐨(🇧🇷 اَلْبِرَازِيلِيّ)",
+      "username": "7am.o",
+      "avatarURL": "https://cdn.discordapp.com/avatars/1336523833091297290/d402950bf51cf719b509c15935847e97.png?size=128",
+      "isAI": false
+    },
+    "black": {
+      "id": "AI",
+      "name": "بوت • متوسط",
+      "isAI": true,
+      "level": 4
+    },
+    "flipped": false,
+    "lastMove": {
+      "from": "e7",
+      "to": "e5"
+    },
+    "drawOfferBy": null,
+    "takebackOfferBy": null,
+    "status": "active",
+    "createdAt": 1790732420338,
+    "lastActivity": 1790732465560,
+    "inactivityWarned": false,
+    "expiresAt": null,
+    "history": [
+      "e4",
+      "e5"
+    ]
+  }
+]
